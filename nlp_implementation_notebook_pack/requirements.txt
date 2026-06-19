@@ -1,0 +1,17 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+joblib
+torch
+gensim
+spacy
+nbformat
+# Optional for Transformer/fine-tuning notebooks:
+transformers
+datasets
+evaluate
+accelerate
+peft
+sklearn-crfsuite
+seqeval

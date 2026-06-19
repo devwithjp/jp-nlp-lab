@@ -1,0 +1,5 @@
+{"tokens": ["Commonwealth", "Bank", "opened", "an", "office", "in", "Sydney"], "tags": ["B-ORG", "I-ORG", "O", "O", "O", "O", "B-LOC"]}
+{"tokens": ["Priya", "joined", "OpenAI", "in", "San", "Francisco"], "tags": ["B-PER", "O", "B-ORG", "O", "B-LOC", "I-LOC"]}
+{"tokens": ["Apple", "released", "Vision", "Pro", "in", "California"], "tags": ["B-ORG", "O", "B-PROD", "I-PROD", "O", "B-LOC"]}
+{"tokens": ["UNSW", "partnered", "with", "Atlassian", "in", "Australia"], "tags": ["B-ORG", "O", "O", "B-ORG", "O", "B-LOC"]}
+{"tokens": ["Ravi", "emailed", "Google", "about", "Gemini", "API"], "tags": ["B-PER", "O", "B-ORG", "O", "B-PROD", "I-PROD"]}

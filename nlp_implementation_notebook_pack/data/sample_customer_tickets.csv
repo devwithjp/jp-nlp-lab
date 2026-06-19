@@ -1,0 +1,25 @@
+text,sentiment,intent,urgency
+"I love the new dashboard, it saves me hours every week.",positive,praise,low
+The app crashes every time I upload a PDF invoice.,negative,bug_report,high
+Can you add export to CSV for the analytics page?,neutral,feature_request,medium
+Your support team solved my billing problem quickly.,positive,praise,low
+I was charged twice for my subscription this month.,negative,billing_issue,high
+How do I invite another teammate to my workspace?,neutral,how_to,medium
+"Great, another outage during our board meeting.",negative,incident_complaint,high
+The search results are much faster after the update.,positive,praise,low
+Please cancel my account before the next renewal.,negative,cancellation,high
+Is there an API endpoint for creating projects?,neutral,api_question,medium
+The onboarding checklist is confusing and I got stuck.,negative,ux_feedback,medium
+I really like the Slack integration.,positive,praise,low
+The model summary invented numbers that were not in my report.,negative,hallucination_report,high
+Could you support Australian English spelling?,neutral,feature_request,low
+"Thanks for adding SSO, our enterprise customers needed it.",positive,praise,low
+I cannot reset my password because the email never arrives.,negative,login_issue,high
+What data do you store when I connect Google Drive?,neutral,privacy_question,medium
+The transcript quality is excellent for noisy calls.,positive,praise,low
+The translation feature missed the legal meaning of the clause.,negative,quality_issue,high
+Can I upload multiple contracts at once?,neutral,how_to,medium
+The new pricing page is clear and fair.,positive,praise,low
+Your chatbot gave me a confident but completely wrong answer.,negative,hallucination_report,high
+Please add role-based access controls for reviewers.,neutral,feature_request,medium
+The mobile app is slow but the web app works well.,neutral,mixed_feedback,medium

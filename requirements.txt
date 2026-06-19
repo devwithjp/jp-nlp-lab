@@ -1,0 +1,28 @@
+# Core (runs the classic notebooks on CPU)
+numpy
+pandas
+scikit-learn
+matplotlib
+joblib
+torch
+gensim
+spacy
+nbformat
+jupyter
+seqeval
+sklearn-crfsuite
+
+# For the Transformer / fine-tuning notebooks
+transformers
+datasets
+evaluate
+accelerate
+peft
+
+# Heavy production extras (uncomment when you have the GPU/runtime for them)
+# trl
+# bitsandbytes
+# fastapi
+# uvicorn
+# vllm
+# faiss-cpu

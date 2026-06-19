@@ -1,0 +1,18 @@
+numpy
+pandas
+matplotlib
+torch
+scikit-learn
+nbformat
+jupyter
+# Optional production extras:
+# transformers
+# datasets
+# accelerate
+# peft
+# trl
+# bitsandbytes
+# fastapi
+# uvicorn
+# vllm
+# faiss-cpu

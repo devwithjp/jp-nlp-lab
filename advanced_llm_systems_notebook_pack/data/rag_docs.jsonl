@@ -1,0 +1,4 @@
+{"id":"doc_001","title":"Refund policy","text":"Customers can request a refund within 30 days if the product is unused and the receipt is available."}
+{"id":"doc_002","title":"Enterprise support","text":"Enterprise customers receive priority support, a dedicated success manager, and quarterly business reviews."}
+{"id":"doc_003","title":"Security posture","text":"The platform supports role-based access control, audit logs, encryption in transit, and encryption at rest."}
+{"id":"doc_004","title":"Data retention","text":"Workspace logs are retained for 90 days by default. Enterprise admins may configure a longer retention window."}

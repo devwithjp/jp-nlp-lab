@@ -1,0 +1,2 @@
+{"prompt":"Explain RAG to a founder.","chosen":"RAG retrieves relevant company documents before generating an answer, so the system can be grounded and updateable without retraining.","rejected":"RAG is when the AI knows everything automatically and never needs documents."}
+{"prompt":"Summarize a refund policy.","chosen":"Refunds are available within 30 days when the product is unused and a receipt is available.","rejected":"Refunds are always available for any reason forever."}

@@ -1,0 +1,6 @@
+id,text,label
+1,"The app crashes when I upload a PDF",bug
+2,"Can I get a refund for my last invoice?",billing
+3,"How do I add a teammate to the workspace?",how_to
+4,"The generated answer invented a clause",quality
+5,"Please delete all logs for my account",privacy

@@ -1,0 +1,8 @@
+AI founders build products from language data.
+Language models predict tokens from context.
+A tokenizer turns messy text into stable ids.
+Attention lets tokens look at relevant tokens.
+Retrieval grounds answers in company documents.
+Evaluation protects users, teams, and trust.
+A small model can teach the mechanics of a large model.
+The product is not the model; the product is the workflow.
