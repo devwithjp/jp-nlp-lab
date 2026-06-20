@@ -1,6 +1,6 @@
 # NLP Implementation Notebook Pack
 
-This pack contains reusable implementation notebooks for the major NLP techniques in the revision map, designed for AI PMs, founders, portfolio projects, and early company prototypes.
+Implementation notebooks for the major NLP techniques, from rule-based tokenization to product evals. Each one runs on toy data and is easy to adapt to your own.
 
 ## How to use
 

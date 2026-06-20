@@ -1,6 +1,6 @@
 # Advanced LLM Systems Implementation Notebook Pack
 
-This pack contains 32 implementation notebooks for learning modern NLP/LLM systems from first principles and turning them into company or portfolio projects.
+32 notebooks that build modern LLM systems from first principles, from a tokenizer to a small end-to-end capstone.
 
 ## Structure: five topics at a time
 
@@ -76,7 +76,7 @@ The notebooks are grouped into batches of five topics so you can study them in l
 - Quantization and serving-cost calculator for model selection.
 - Tool-using AI PM assistant that can retrieve docs, calculate budgets, and produce structured PRDs.
 
-## Consolidated references
+## References
 
 - RoPE: RoFormer / Rotary Position Embedding, arXiv:2104.09864.
 - ALiBi: Train Short, Test Long, arXiv:2108.12409.

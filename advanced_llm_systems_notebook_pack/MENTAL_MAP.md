@@ -1,4 +1,4 @@
-# LLM Systems Mental Map for AI PMs and Founders
+# LLM Systems Mental Map
 
 ```text
 Data → Tokenizer → Embeddings → Attention/Backbone → Objective → Training/Post-training → Decoding → Serving → Product Workflow → Evals/Safety
